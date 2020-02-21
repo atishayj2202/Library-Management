@@ -5,6 +5,8 @@ Library System Mangaement made in C++
 
 Project for C++
 
+Start From Main.exe or Main.cpp
+
 ## Features
 
   ### FOR ADMIN
@@ -22,9 +24,9 @@ Project for C++
     3. Check Student(Only Self) & Book Info
   
 ## Topics Used
-  1. File Handling(Binary Files)
+    1. File Handling(Binary Files)
   
-  2. Classes
+    2. Classes
   
-  3. Structures
+    3. Structures
   
