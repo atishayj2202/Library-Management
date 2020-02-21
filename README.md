@@ -5,9 +5,11 @@ Project for C++
 
 Features :-
   FOR ADMIN
-    Add Student & Book
-    Delete Student & Book
-    Check Info of Student & Book
+    1. Add Student & Book
+    2. Delete Student & Book
+    3. Check Info of Student & Book
+
+
   FOR STUDENT
     Issue/Return Book
     Pay Dues
