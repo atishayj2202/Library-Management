@@ -1,6 +1,6 @@
 #include<iostream>
-#include"ADMIN.cpp"
-#include"studnet.cpp"
+#include"Admin_Menu.h"
+#include"Student_Menu.h"
 using namespace std;
 
 int main(){
